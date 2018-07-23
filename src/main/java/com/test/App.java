@@ -11,12 +11,5 @@ public class App {
 		
 		return one + two;
 	}
-	
-	public int addition(int a, int b) {
-		return a+b;
-	}
-	
-	public int soustraction(int c, int d) {
-		return c-d;
-	}	
+		
 }
